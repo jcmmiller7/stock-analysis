@@ -37,7 +37,7 @@ For example, here are some snippets of the refactored code along with run time p
 
 
 
-## ummary
+## Summary
 The refactoring process has several key advantages. These include software design improvements, improved understanding/readability of the code, debugging, and helps programs produce output faster. However, there are some risks associated with refactoring code. Some disadvantages include that the refactoring process can be risky when working with large applications and it is also risky when the existing code does not have proper test cases. It is essential to refactor code when working with long-term software, but this process is often costly and time consuming which must be considered in the cost benefit analysis for the company. 
 
 The main advantage for this specific VBA script are the decrease in the macro run time. The screenshots indicate that the refactored code runs approximately 0.5 seconds faster compared to the original code. The main disadvantage as it pertains to the stock analysis project was the time and effort put into refactoring the code to allow it to run only slightly faster. This would be more useful for larger programs that have much longer run times. 
