@@ -13,29 +13,26 @@ For example, here are some snippets of the refactored code along with run time p
 
 <img width="661" alt="Screen Shot 2021-07-08 at 3 54 52 PM" src="https://user-images.githubusercontent.com/85506567/124982572-d8663500-e004-11eb-99e9-b59c13de02f3.png">
 
-###2017:
-Original Code:
+
 <img width="432" alt="Screen Shot 2021-07-08 at 11 18 49 AM" src="https://user-images.githubusercontent.com/85506567/124982689-ffbd0200-e004-11eb-9323-968df6ba2035.png">
 
 
 
 
-Refactored Code:
+
 <img width="425" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/85506567/124982717-08add380-e005-11eb-860b-34ab46f27e2c.png">
 
 
 
 
 
-###2018:
 
 
-Original Code:
+
 <img width="430" alt="Screen Shot 2021-07-08 at 11 19 19 AM" src="https://user-images.githubusercontent.com/85506567/124982787-1e22fd80-e005-11eb-93e4-f8bf77823876.png">
 
 
 
-Refactored Code:
 <img width="428" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/85506567/124982844-2ed37380-e005-11eb-9616-a8f09ccec905.png">
 
 
